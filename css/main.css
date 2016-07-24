@@ -1,0 +1,27 @@
+html {
+  font-family: sans-serif;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */}
+  @font-face {
+  font-family: 'ubuntu-r';
+  src: url('../fonts/Ubuntu-R.ttf'); /* IE9 Compat Modes */
+  
+}
+@font-face {
+  font-family: 'ubuntu-b';
+  src: url('../fonts/Ubuntu-B.ttf'); /* IE9 Compat Modes */
+  
+}
+body {
+margin:0 auto;
+}
+.nav{
+background-color:black;
+}
+  
+ 
+
+

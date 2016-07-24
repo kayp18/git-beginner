@@ -1,0 +1,92 @@
+@media only screen and (max-width: 600px) {
+#kayp {
+ margin-left:58%;
+ margin-top:8%;
+ }
+ #kayp img{width:120%;height:auto; }
+ 
+}
+
+@media only screen and (max-width: 400px) {
+
+.bg{max-width:110%;} 
+/*parallax header*/
+#kayp {
+ margin-left:56%;
+ margin-top:18%;
+ }#kayp img{width:120%;height:auto; }
+#hi{
+width:100%;
+margin-top: 18%;
+}#navig{
+width: 20%;
+margin-left: 76%;
+margin-top: 22%;
+}#navig  ul{  list-style-type:none;  padding-top: 10px;}
+	#navig li a{
+		display:inline-block;
+		font-size:5vw;
+	}
+/*fixed intro*/
+ .intro{
+width: 70%;
+margin-top: -30%;
+margin-left:-2%;
+}.intro h4{font-size:4vw;}
+/*bio*/
+.bio-img{margin-top:-15%;}
+.bio-img img{margin-left:-3%;}
+
+/*skills*/
+
+.skill-img img{
+margin-top:-2%;
+margin-left:-3%;
+}
+
+.skill-q img{
+margin-left:-3%;
+margin-top:-5%;
+}
+
+.skill-set img{
+margin-top:-20%;
+margin-left:-3%;
+padding-bottom:5%;
+}
+
+
+/*footer*/
+.footer {max-width:110%; text-align:center;}
+.fifth-sm {
+margin-left:4%;
+padding-bottom:2%;
+
+}.fifth-sm img{
+width:75%;
+
+}.fifth-sm  li{margin-left:-8%;}
+.fifth-ty{}
+.fifth-ty h2{font-size:1.5em;
+margin-top:-2%;
+
+}
+.fifth-ty h3{
+font-size:1em;
+margin-top: -2%;
+}
+.fifth-l{margin-top:-3%;}
+.fifth-l a{
+font-size:1.3em;
+margin-left:-8%;
+}
+.fifth-l p{
+font-size:15px;
+}
+
+
+
+}
+
+
+
