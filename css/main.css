@@ -8,20 +8,17 @@ html {
   @font-face {
   font-family: 'ubuntu-r';
   src: url('../fonts/Ubuntu-R.ttf'); /* IE9 Compat Modes */
-  
+
 }
 @font-face {
   font-family: 'ubuntu-b';
   src: url('../fonts/Ubuntu-B.ttf'); /* IE9 Compat Modes */
-  
+
 }
 body {
+  background-color:black;
 margin:0 auto;
 }
 .nav{
 background-color:black;
 }
-  
- 
-
-
